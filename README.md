@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Federicogimenez
 - 👀 I’m interested in ... frontend
-- 🌱 I’m currently learning ... advanced css
-- 💞️ I’m looking to collaborate on ... layout
+- 🌱 I’m currently learning ... angular and react
+- 💞️ I’m looking to collaborate on ... development
 - 📫 How to reach me ...
 
 <!---
